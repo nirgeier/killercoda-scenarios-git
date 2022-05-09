@@ -2,7 +2,7 @@
   "title": "A playground",
   "description": "Play with Git",
   "backend": {
-    "imageid": "ubuntu20.04"
+    "imageid": "ubuntu"
   },
   "details": {
      "intro": {
