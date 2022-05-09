@@ -1,0 +1,22 @@
+{
+  "title": "001 git init",
+  "description": "Git From Basic to advanced",
+  "backend": {
+    "imageid": "ubuntu"
+  },
+  "details": {
+    "intro": {
+      "text": "00-intro.md",
+      "background": "/assets/setup-kata.sh"
+    },
+    "steps": [
+      {
+        "text": "01-step01.md",
+        "verify": "999-verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "99-finish.md"
+    }
+  }
+}
