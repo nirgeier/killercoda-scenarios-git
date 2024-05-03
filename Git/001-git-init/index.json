@@ -1,5 +1,5 @@
 {
-  "title": "001 git init",
+  "title": "⭐ 001 git init",
   "description": "Git From Basic to advanced",
   "backend": {
     "imageid": "ubuntu"
@@ -7,6 +7,7 @@
   "details": {
     "intro": {
       "text": "00-intro.md",
+      "foreground": "/assets/wait-for-setup.sh",
       "background": "/assets/setup-kata.sh"
     },
     "steps": [
